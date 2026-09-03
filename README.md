@@ -4,4 +4,5 @@
 
 TY [@charactersofpt](https://github.com/charactersofpt) [@pt-friendships](https://github.com/pt-friendships) [@ponytowncosplayers](https://github.com/ponytowncosplayers)
 old users: Fartticles, PIanetIords
-<img width="1600" height="730" alt="1000163518" src="https://github.com/user-attachments/assets/969594a2-a153-4269-9ae4-e7492157ae12" />
+l<img width="1280" height="230" alt="1000163519" src="https://github.com/user-attachments/assets/5d2827e5-c87d-4ef1-a9d0-dc689e7cf5c7" />
+

@@ -4,4 +4,4 @@
 </picture>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"<img width="736" height="736" alt="1000164256" src="https://github.com/user-attachments/assets/b0bf9c86-43ca-4f1d-8141-312e2e95b181" />
+  <source media=<img width="736" height="736" alt="1000164256" src="https://github.com/user-attachments/assets/b0bf9c86-43ca-4f1d-8141-312e2e95b181" />

@@ -47,5 +47,3 @@
 
 
 
-I'm genuinely so sorry if some shadings looks like other people but I just wanna let you know that most of the ponies I use are still untinted so they look really different from the others and I still use some old ponies I genuinely don't know how to word it but hope you understand 
-<img width="1080" height="737" alt="1000164561" src="https://github.com/user-attachments/assets/a1f1750f-9900-4fbf-afb5-5bd93407c10a" />

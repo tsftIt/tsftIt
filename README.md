@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png">
-  <img alt="My Image Description" src="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png" width="480" height="480">
+  <img alt="My Image Description" src="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png" width="620" height="480">
 </picture>
 
 [![Website Button](https://cdn.phototourl.com/member/2026-09-30-5871be70-c472-40f4-ad3d-d6dbed2bdd11.png)](https://planetlordss.straw.page) [![Website Button](https://cdn.phototourl.com/member/2026-09-30-a0915ec3-a77b-482b-9f17-e48549cdfd22.png)](https://rentry.co/aertis)

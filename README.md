@@ -9,9 +9,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a6d63tdpsherhdthoqwugqwsxm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
-  <img width="680" height="510" alt="1000165098" src="https://github.com/user-attachments/assets/5e15b28c-b0d7-490e-be68-0f6cfc7f7f41" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
-  <img alt="My Transparent Image" src="https://github.com" width="680" height="510">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png">
+  <img alt="My Image Description" src="https://cdn.phototourl.com/member/2026-09-30-232a9427-6abc-4d04-9686-6b41075ba181.png" width="480" height="480">
 </picture>

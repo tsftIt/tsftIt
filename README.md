@@ -9,39 +9,12 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a6d63tdpsherhdthoqwugqwsxm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
-<img width="736" height="597" alt="1000165012" src="https://github.com/user-attachments/assets/0656e258-486d-48df-9b88-4f5826a61357" />
-I lied I'm actually a lazy bum never updating this
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_THEME_IMAGE_URL">
+  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_THEME_IMAGE_URL">
+  <img alt="Your Description" src="<img width="680" height="510" alt="1000165098" src="https://github.com/user-attachments/assets/7bf00097-6bf4-4d50-a348-cc7cb3e0d985" />
+">
+</picture>
 
 
 

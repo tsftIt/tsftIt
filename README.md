@@ -10,14 +10,9 @@
   </a>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_THEME_IMAGE_URL">
-  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_THEME_IMAGE_URL">
-  <img alt="Your Description" src="<img width="680" height="510" alt="1000165098" src="https://github.com/user-attachments/assets/7bf00097-6bf4-4d50-a348-cc7cb3e0d985" />
-">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
+  <img alt="My Transparent Image" src="https://github.com" width="680" height="510">
 </picture>
-
-
-
-
-
-

@@ -11,3 +11,7 @@
 hai oomfs
 
 [@ch3shyre](https://github.com/ch3shyre) [@raivings](https://github.com/raivings) [@puplexis](https://github.com/puplexis) [@avenueq](https://github.com/avenueq) [@kunakunah](https://github.com/kunakunah) ++
+
+<img width="248" height="248" alt="1000165325" src="https://github.com/user-attachments/assets/ccc2d63d-c127-459d-b693-ce1e7683436c" />
+
+whose ugly baby is this #killmike #executemike #getmike #begonemike

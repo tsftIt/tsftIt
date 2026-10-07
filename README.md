@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=PIanetIords&label=diabetes&color=F9D8EB)
+![](https://komarev.com/ghpvc/?username=PIanetIords&label=diabetes&color=F9D8EB) -> sign my ata guys....
 
 
 
@@ -8,9 +8,6 @@
 
 [![Website Button](https://cdn.phototourl.com/member/2026-09-30-a0915ec3-a77b-482b-9f17-e48549cdfd22.png)](https://rentry.co/aertis)
 
-hai oomfs
-
-[@Mike](https://github.com/ch3shyre) [@Foloise](https://github.com/raivings) [@Lexi](https://github.com/puplexis) [@Aven](https://github.com/avenueq) [@Kuna](https://github.com/kunakunah) [@Lavi](https//github.com/LAVIEDOTOK) [@Jules](https//github.com/newestalbum) ++
 
 <img width="248" height="248" alt="1000165325" src="https://github.com/user-attachments/assets/ccc2d63d-c127-459d-b693-ce1e7683436c" />
 

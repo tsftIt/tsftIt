@@ -10,7 +10,7 @@
 
 hai oomfs
 
-[@ch3shyre](https://github.com/ch3shyre) [@raivings](https://github.com/raivings) [@puplexis](https://github.com/puplexis) [@avenueq](https://github.com/avenueq) [@kunakunah](https://github.com/kunakunah) ++
+[@Mike](https://github.com/ch3shyre) [@Foloise](https://github.com/raivings) [@Lexi](https://github.com/puplexis) [@Aven](https://github.com/avenueq) [@Kuna](https://github.com/kunakunah) [@Lavi](https//github.com/LAVIEDOTOK) [@Jules](https//github.com/newestalbum) ++
 
 <img width="248" height="248" alt="1000165325" src="https://github.com/user-attachments/assets/ccc2d63d-c127-459d-b693-ce1e7683436c" />
 
